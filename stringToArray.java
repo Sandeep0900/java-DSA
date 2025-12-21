@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class stringToArray {
     public static void main(String[] arr) {
