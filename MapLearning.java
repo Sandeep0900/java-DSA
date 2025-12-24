@@ -5,6 +5,5 @@ public class MapLearning{
             j = 0;
             System.out.println(j);
         }
-
     }
 } 
